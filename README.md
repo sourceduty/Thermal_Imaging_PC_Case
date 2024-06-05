@@ -17,6 +17,8 @@ Overall, the Thermal Imaging PC Case represents a significant leap forward in co
 ### Related Links
 
 [Thermal Imaging Microwave](https://github.com/sourceduty/Thermal_Imaging_Microwave)
+<br>
+[Thermal Science](https://chat.openai.com/g/g-JhRbCZ4k0-thermal-science)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
