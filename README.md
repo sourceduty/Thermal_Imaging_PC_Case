@@ -21,6 +21,8 @@ Overall, the Thermal Imaging PC Case represents a significant leap forward in co
 [Thermal Science](https://chat.openai.com/g/g-JhRbCZ4k0-thermal-science)
 <br>
 [Pi-PC Case](https://github.com/sourceduty/Pi-PC_Case)
+<br>
+[Gas-Cooled Computer](https://github.com/sourceduty/Gas-Cooled_Computer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
